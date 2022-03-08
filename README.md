@@ -1,3 +1,3 @@
-# My portfolio
-A responsive static portfolio website created using HTML,CSS and Javascript.
+# portfolio
+A responsive static portfolio website created using HTML,CSS and Javascript .
 
