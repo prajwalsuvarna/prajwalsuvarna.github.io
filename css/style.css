@@ -333,11 +333,21 @@ header{
     grid-row: 2;
     position: relative;
     left: -1em;
+    width: 350px;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+@media (min-width: 600px) {
+    .section__subtitle--about
+{
+    grid-column: 1 / -1;
+    grid-row: 2;
+    position: relative;
+    left: -1em;
     width: calc(100% + 2em);
     padding-left: 1em;
     padding-right: calc(200px + 4em);
 }
-@media (min-width: 600px) {
     .about-me {
         display: grid;
         grid-template-columns: 1fr 200px;
