@@ -333,7 +333,7 @@ header{
     grid-row: 2;
     position: relative;
     left: -1em;
-    width: 350px;
+    width: 111%;
     padding-left: 1em;
     padding-right: 1em;
 }
